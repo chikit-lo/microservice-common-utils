@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.github.chikitlo</groupId>
+    <groupId>io.github.chikit-lo</groupId>
     <artifactId>microservice-common-utils</artifactId>
     <version>1.0.0</version>
     <name>microservice-common-utils</name>
@@ -32,7 +32,7 @@
         <dependencies>
             <!-- Import Dependencies From BOM -->
             <dependency>
-                <groupId>io.github.chikitlo</groupId>
+                <groupId>io.github.chikit-lo</groupId>
                 <artifactId>microservice-dependencies</artifactId>
                 <version>1.0.0</version>
                 <type>pom</type>
