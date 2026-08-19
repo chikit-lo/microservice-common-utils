@@ -6,7 +6,7 @@
 
     <groupId>io.github.chikit-lo</groupId>
     <artifactId>microservice-common-utils</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>microservice-common-utils</name>
     <description>Common Utils for Microservices</description>
     <licenses>
@@ -34,7 +34,7 @@
             <dependency>
                 <groupId>io.github.chikit-lo</groupId>
                 <artifactId>microservice-dependencies</artifactId>
-                <version>1.0.0</version>
+                <version>1.0.0-SNAPSHOT</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
