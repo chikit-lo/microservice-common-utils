@@ -24,9 +24,9 @@ public class ResultCollectors {
 
             return ret;
         }
+    }
 
-        public static ResultCollector<Result> toSimple() {
-            return new SimpleResultCollectorImpl();
-        }
+    public static ResultCollector<Result> toSimple() {
+        return new SimpleResultCollectorImpl();
     }
 }

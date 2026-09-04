@@ -41,4 +41,59 @@ public final class DateConstants {
      * yyyyMMdd
      */
     public static final String YYYYMMDD = "yyyyMMdd";
+
+    /**
+     * Date format of yyyyMMdd
+     */
+    public static final String PARAMETER_FORMAT_DATE = "yyyyMMdd";
+
+    /**
+     * Date format of yyyyMMddHHmmss
+     */
+    public static final String PARAMETER_FORMAT_TIME = "yyyyMMddHHmmss";
+
+    /**
+     * System date(yyyyMMddHHmmss)
+     */
+    public static final String PARAMETER_DATETIME = "system.datetime";
+
+    /**
+     * System date(yyyymmdd) today
+     */
+    public static final String PARAMETER_CURRENT_DATE = "system.biz.curdate";
+
+    /**
+     * System date(yyyymmdd) yesterday
+     */
+    public static final String PARAMETER_BUSINESS_DATE = "system.biz.date";
+
+    /**
+     * Month_begin
+     */
+    public static final String MONTH_BEGIN = "month_begin";
+
+    /**
+     * Add_months
+     */
+    public static final String ADD_MONTHS = "add_months";
+
+    /**
+     * Month_end
+     */
+    public static final String MONTH_END = "month_end";
+
+    /**
+     * Week_begin
+     */
+    public static final String WEEK_BEGIN = "week_begin";
+
+    /**
+     * Week_end
+     */
+    public static final String WEEK_END = "week_end";
+
+    /**
+     * Timestamp
+     */
+    public static final String TIMESTAMP = "timestamp";
 }
